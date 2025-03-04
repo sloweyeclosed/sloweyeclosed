@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sloweyeclosed
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Sass(CSS), Bootstrap, JavaScript 
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me discord: whyqzs , tkluf / tg: @qutth
 - 😄 Pronouns: He/Him 
