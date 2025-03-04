@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me discord: whyqzs , tkluf / tg: @qutth
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: 15q1
 - 💻 Programming languages i’ve worked with:: C# , C#(unity) , Python 
 
 <!---
