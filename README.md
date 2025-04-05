@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me discord: whyqzs , tkluf / tg: @qutth
 - 😄 Pronouns: He/Him 
-- 💻 Programming languages i’ve worked with:: C# , C#(unity) , Python 
+- 💻 Programming languages i’ve worked with:: C# , Python 
 
 <!---
 sloweyeclosed/sloweyeclosed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
